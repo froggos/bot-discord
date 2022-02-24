@@ -1,0 +1,3 @@
+module.exports = {
+    prefix: Buffer.from([0xFF, 0xFF, 0xFF, 0xFF])
+}
